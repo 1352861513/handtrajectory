@@ -1,2 +1,2 @@
 # handtrajectory
-Simple hand trajectory with CNN, TF.
+Simple hand trajectory with NN, TF.
